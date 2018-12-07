@@ -1,7 +1,7 @@
 /**
  * My project source.
  *
- * Copyright (c)
+ * Copyright (c) MY_NAME
  * Licensed under MIT License
  */
 // TODO: Implement project

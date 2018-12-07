@@ -9,7 +9,7 @@ import pkg from "./package.json";
 const banner = `/**
  * My project source.
  *
- * Copyright (c)
+ * Copyright (c) MY_NAME
  * Licensed under MIT License
  */`
 
@@ -40,7 +40,7 @@ export default [
             cleanup({
                 extensions: [".js", ".ts"],
                 // TODO - Replace MY_NAME with the name used in file headers
-                comments: /^((?!(MY_NAME)|tslint)[\s\S])*$/, // Removes file-header comments and tslint comments,
+                comments: /^((?!(MY_NAME)|tslint)[\s\S])*$/, // Removes file-header comments and tslint comments
                 maxEmptyLines: 0
             })
         ],
