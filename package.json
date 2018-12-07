@@ -1,12 +1,12 @@
 {
-  "name": "todo-project-name",
-  "version": "v0.0.1",
+  "name": "typescript-project-starter",
+  "version": "0.0.1",
   "description": "TODO: Project Description",
   "author": "(TODO: Author) <(TODO: Author Email)> ((TODO: Author URL))",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+(TODO: Git Repo URL).git"
+    "url": "git+https://github.com/jcowman2/typescript-project-starter.git"
   },
   "bugs": {
     "url": "(TODO: Git Repo URL)/issues"
